@@ -204,3 +204,4 @@ spawn(function()
 end)
 
 print("Item ESP loaded | F1 = toggle ESP")
+notify("Loaded","Granny",4)
