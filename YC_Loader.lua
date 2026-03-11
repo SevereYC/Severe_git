@@ -25,5 +25,5 @@ if url then
     end
 else
     warn("No script configured for this GameId.")
-    notify("Unsupported games","YCLoader",5)
+    notify("Unsupported games","YCLoader",3)
 end
