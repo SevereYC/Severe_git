@@ -1,4 +1,5 @@
 print("Script Loader Started")
+notify("Loading...","YCLoader",4)
 
 local Scripts = {
     [847722000] = "https://raw.githubusercontent.com/SevereYC/Severe_git/refs/heads/main/The_Rake.lua",
@@ -24,4 +25,5 @@ if url then
     end
 else
     warn("No script configured for this GameId.")
+    notify("Unsupported games","YCLoader",5)
 end
