@@ -4,7 +4,8 @@ notify("Loading...","YCLoader",5)
 local Scripts = {
     [847722000] = "https://raw.githubusercontent.com/SevereYC/Severe_git/refs/heads/main/The_Rake.lua",
     [2165551367] = "https://raw.githubusercontent.com/SevereYC/Severe_git/refs/heads/main/Granny.lua",
-    [7008097940] = "https://raw.githubusercontent.com/SevereYC/Severe_git/refs/heads/main/InkGame.lua"
+    [7008097940] = "https://raw.githubusercontent.com/SevereYC/Severe_git/refs/heads/main/InkGame.lua",
+    [3047037061] = "https://raw.githubusercontent.com/SevereYC/Severe_git/refs/heads/main/Minesweeper.lua"
 }
 
 local GameId = game.GameId
