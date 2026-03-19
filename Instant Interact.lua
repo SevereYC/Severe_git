@@ -1,5 +1,5 @@
 local ok, res = pcall(function()
-    return game:HttpGet("https://raw.githubusercontent.com/SevereYC/Severe_git/refs/heads/main/Robloxmem.json")
+    return game:HttpGet("https://raw.githubusercontent.com/SevereYC/Severe_git/refs/heads/main/Robloxmemory.json")
 end)
 
 local offset
