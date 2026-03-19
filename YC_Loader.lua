@@ -7,6 +7,7 @@ local Scripts = {
     [7008097940] = "https://raw.githubusercontent.com/SevereYC/Severe_git/refs/heads/main/InkGame.lua",
     [3047037061] = "https://raw.githubusercontent.com/SevereYC/Severe_git/refs/heads/main/Minesweeper.lua",
     [1116949753] = "https://raw.githubusercontent.com/SevereYC/Severe_git/refs/heads/main/IsleESP.lua"
+    [3880544777] = "https://raw.githubusercontent.com/SevereYC/Severe_git/refs/heads/main/Instant%20Interact.lua"
 }
 
 local GameId = game.GameId
