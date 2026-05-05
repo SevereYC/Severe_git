@@ -2,7 +2,19 @@
   "Site YC": {
     "Level": "math.huge",
     "Users": [
-      "85Minecraft666666,xiaobai_91,MilitaryMantou"
+      "85Minecraft666666"
+    ]
+  },
+  "Site XX": {
+    "Level": "math.huge",
+    "Users": [
+      "MilitaryMantou"
+    ]
+  },
+  "Site XX": {
+    "Level": "math.huge",
+    "Users": [
+      "xiaobai_91"
     ]
   }
 }
